@@ -9,7 +9,7 @@ A website that creates secure password
 * JavaScript
 
 ## Screenshot
-![Image alt](https://github.com/NadyaSlb/Portfolio/blob/main/assets/images/Screenshot%202022-04-15%2011.12.43.png)
+![Image alt](https://github.com/NadyaSlb/password-generator-Nadya/blob/develop/Screenshot%202022-04-22%2020.07.28.png)
 
 ## Website
-
+https://nadyaslb.github.io/password-generator-Nadya/
